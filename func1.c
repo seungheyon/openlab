@@ -4,6 +4,6 @@
 void foo(){
     printf("hello foo\n");
 }
-void my_experiment_function(){
+void myexperiment_function(){
     printf("some experiment,,,\n");
 }
